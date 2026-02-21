@@ -8,17 +8,6 @@
 → [Demo](https://drive.google.com/file/d/1B9znlYECTkECuuuvC2fQ1uuax4qbtkSm/view?usp=sharing) ←
 
 ---
-
-### Technical Stack
-
-- **Backend:** PHP (Laravel)
-- **Database:** MySQL
-- **Architecture:** MVC, OOP principles
-- **Features:** RESTful APIs, multi-language support
-- **Authentication & Authorization:** Role-based access control
-- **Admin Panel:**  Admin dashboard built with Laravel Filament
-
----
 ###  Admin Dashboard
 
 https://github.com/user-attachments/assets/60d4ec01-bfa4-4e29-8574-4b3602517e27
